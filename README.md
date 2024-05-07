@@ -1,3 +1,37 @@
+Hello Step to use this files------>
+
+Step-1
+npm i --save class-validator class-transformer
+
+Step-2
+npm add @nestjs/typeorm typeorm mysql2  
+or
+npm install --save @nestjs/typeorm typeorm sqlite3 
+
+Step-3
+npm install cookie-session @types/cookie-session
+
+Step-4 this step to start this backend code and make sure that you have database 
+npm run start:dev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
