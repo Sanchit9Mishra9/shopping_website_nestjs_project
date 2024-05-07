@@ -1,17 +1,20 @@
-Hello Step to use this files------>
-
+Hello, Step to use these files------>
 Step-1
-npm i --save class-validator class-transformer
+npm install
 
 Step-2
+npm i --save class-validator class-transformer
+
+Step-3
 npm add @nestjs/typeorm typeorm mysql2  
 or
 npm install --save @nestjs/typeorm typeorm sqlite3 
 
-Step-3
+Step-4
 npm install cookie-session @types/cookie-session
 
-Step-4 this step to start this backend code and make sure that you have database 
+Step-5
+this step to start this backend code and make sure that you have database 
 npm run start:dev
 
 
