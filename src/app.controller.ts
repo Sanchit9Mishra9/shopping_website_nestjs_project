@@ -11,7 +11,7 @@ export class AppController {
   }
 
   @Get()
-  getNikhil(): string {
+  getNikhi(): string {
     return this.appService.getNikhil();
   }
 }
